@@ -1,3 +1,10 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
+.editorconfig
+package-lock.json
+yarn.lock
+.DS_Store
+node_modules
+*.log*

@@ -28,8 +28,6 @@
 		"button.foreground": "#fff",
 		"button.hoverBackground": "#539afc",
 
-
-
 		"debugExceptionWidget.background": "#1D252C",
 		"debugExceptionWidget.border": "#b7c5d3",
 		"debugToolBar.background": "#B7C5D3",
