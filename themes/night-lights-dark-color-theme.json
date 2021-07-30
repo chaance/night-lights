@@ -267,7 +267,34 @@
 		"welcomePage.buttonBackground": "#335e9b",
 		"welcomePage.buttonHoverBackground": "#539afc",
 
-		"widget.shadow": "#00000026"
+		"widget.shadow": "#00000026",
+
+		// GitLens Extension colors
+		"gitlens.decorations.addedForegroundColor": "#60af73",
+		"gitlens.decorations.branchAheadForegroundColor": "#60af73",
+		"gitlens.decorations.branchBehindForegroundColor": "#d98e48",
+		"gitlens.decorations.branchDivergedForegroundColor": "#ebbf83",
+		"gitlens.decorations.branchMissingUpstreamForegroundColor": "#d95468",
+		"gitlens.decorations.branchUnpublishedForegroundColor": "#8bd49c",
+		"gitlens.decorations.copiedForegroundColor": "#60af73",
+		"gitlens.decorations.deletedForegroundColor": "#e27e8d",
+		"gitlens.decorations.ignoredForegroundColor": "#41505e",
+		"gitlens.decorations.modifiedForegroundColor": "#ebbf83",
+		"gitlens.decorations.renamedForegroundColor": "#60af73",
+		"gitlens.decorations.untrackedForegroundColor": "#8bd49c",
+		"gitlens.gutterBackgroundColor": "#1D252C",
+		"gitlens.gutterForegroundColor": "#b7c5d385",
+		"gitlens.gutterUncommittedForegroundColor": "#5ec4ff99",
+		"gitlens.lineHighlightBackgroundColor": "#5ec4ff33",
+		"gitlens.lineHighlightOverviewRulerColor": "#5ec4ff",
+		"gitlens.mergedPullRequestIconColor": "#68A1F0",
+		"gitlens.openPullRequestIconColor": "#60af73",
+		"gitlens.closedPullRequestIconColor": "#d95468",
+		"gitlens.trailingLineBackgroundColor": "#1D252C00",
+		"gitlens.trailingLineForegroundColor": "#b7c5d359",
+		"gitlens.unpublishedCommitIconColor": "#8bd49c",
+		"gitlens.unpulledChangesIconColor": "#d98e48",
+		"gitlens.unpushlishedChangesIconColor": "#8bd49c",
 	},
 	"tokenColors": [
 		{
