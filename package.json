@@ -1,0 +1,48 @@
+{
+  "name": "night-lights-color-theme",
+  "version": "0.1.0",
+	"author": {
+		"name": "Chance Strickland",
+		"email": "hi@chance.dev",
+		"url": "https://chance.dev"
+	},
+  "description": "Inspired by the City Lights Color Theme for VS Code; enhanced for greater usability.",
+  "license": "MIT",
+  "displayName": "Night Lights",
+  "publisher": "chancestrickland",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaance/night-lights"
+  },
+  "scripts": {
+    "clean": "rimraf node_modules",
+    "compile": "vsce package",
+    "package": "npm run format && npm run compile",
+    "pub": "npm run package && vsce publish",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2",
+    "rimraf": "^3.0.2",
+    "vsce": "^1.96.1"
+  },
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-lights-dark-color-theme.json"
+      }
+    ]
+  },
+  "prettier": {
+    "useTabs": true,
+    "tabWidth": 2
+  }
+}
