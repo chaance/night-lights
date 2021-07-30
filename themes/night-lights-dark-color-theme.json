@@ -5,7 +5,7 @@
 	"editor.semanticHighlighting.enabled": false,
 	"colors": {
 		"foreground": "#b7c5d3",
-		"contrastBorder": "#ffffff00",
+		// "contrastBorder": "#333f4a",
 
 		"activityBar.background": "#1D252C",
 		"activityBar.border": "#333F4A",
@@ -54,7 +54,7 @@
 		"editor.hoverHighlightBackground": "#333F4A",
 		"editor.inactiveSelectionBackground": "#1D252C",
 		"editor.lineHighlightBackground": "#28313a",
-		"editor.lineHighlightBorder": "#28313a",
+		// "editor.lineHighlightBorder": "#28313a",
 		"editor.rangeHighlightBackground": "#28313a",
 		"editor.selectionBackground": "#28323a",
 		"editor.selectionHighlightBackground": "#28313a",
@@ -192,6 +192,8 @@
 		"sideBarSectionHeader.background": "#1D252C",
 		"sideBarSectionHeader.foreground": "#b7c5d3",
 		"sideBarTitle.foreground": "#b7c5d3",
+
+		// "scm.providerBorder": "#333F4A",
 
 		"gitDecoration.ignoredResourceForeground": "#41505e",
 		"gitDecoration.addedResourceForeground": "#60af73",
