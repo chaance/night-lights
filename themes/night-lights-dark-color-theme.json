@@ -294,7 +294,7 @@
 		"gitlens.trailingLineForegroundColor": "#b7c5d359",
 		"gitlens.unpublishedCommitIconColor": "#8bd49c",
 		"gitlens.unpulledChangesIconColor": "#d98e48",
-		"gitlens.unpushlishedChangesIconColor": "#8bd49c",
+		"gitlens.unpushlishedChangesIconColor": "#8bd49c"
 	},
 	"tokenColors": [
 		{
