@@ -15,7 +15,8 @@
 		"url": "https://github.com/chaance/night-lights"
 	},
 	"scripts": {
-		"clean": "rimraf node_modules",
+		"clean": "rimraf node_modules *.vsix",
+		"clean-pub": "rimraf *.vsix",
 		"compile": "vsce package",
 		"package": "npm run format && npm run compile",
 		"pub": "npm run package && vsce publish",
