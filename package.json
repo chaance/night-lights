@@ -1,6 +1,6 @@
 {
 	"name": "night-lights-color-theme",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"author": {
 		"name": "Chance Strickland",
 		"email": "hi@chance.dev",
@@ -10,6 +10,7 @@
 	"license": "MIT",
 	"displayName": "Night Lights",
 	"publisher": "chaance",
+	"icon": "assets/night-lights-icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/chaance/night-lights"
