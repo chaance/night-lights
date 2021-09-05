@@ -438,7 +438,13 @@
 				"support.class.component.js",
 				"support.class.component.jsx",
 				"support.class.component.ts",
-				"support.class.component.tsx"
+				"support.class.component.tsx",
+				"support.class.component.open.js",
+				"support.class.component.open.jsx",
+				"support.class.component.open.tsx",
+				"support.class.component.close.js",
+				"support.class.component.close.jsx",
+				"support.class.component.close.tsx"
 			],
 			"settings": {
 				"foreground": "#70e1e8"
